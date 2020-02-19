@@ -2,8 +2,6 @@
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
 # Examples:
-#
-#   restaurants = Restaurant.create([{ name: 'El Gallito' }, { name: 'Pork Hospital' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 restaurants = [
   {

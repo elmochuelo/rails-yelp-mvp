@@ -5,7 +5,7 @@
 #
 #   restaurants = Restaurant.create([{ name: 'El Gallito' }, { name: 'Pork Hospital' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-restaurant_attributes = [
+restaurants = [
   {
     name:         'El Gallito',
     address:      '304 19th Ave. E, Seattle WA 98122',
@@ -19,11 +19,11 @@ restaurant_attributes = [
     category: 'belgian'
   },
   {
-    name: 'Clinique Poultry',
-    address: '201 Rainier, Yelm WA 98543'
+    name: 'Poultry Clinic',
+    address: '201 Rainier, Yelm WA 98543',
     phone_number: '42 59 87 65 43 99',
     category: 'japanese'
   }
 ]
 
-Restaurant.create!(restaurant_attributes)
+# Restaurant.create!(restaurants)

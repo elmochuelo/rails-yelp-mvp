@@ -9,19 +9,19 @@ restaurants = [
   {
     name:         'El Gallito',
     address:      '304 19th Ave. E, Seattle WA 98122',
-    phone:  2063296204,
+    phone_number:  20 63 29 62 04 00,
     category: 'Chinese'
   },
   {
     name:         'Pork Hospital',
     address:      '200 Rainier Ave. S., Seattle WA 98124',
-    phone:  2063296204,
+    phone_number:  20 63 29 62 04 33,
     category: 'Belgian'
   },
   {
     name: 'Clinique Poultry',
     address: '201 Rainier, Yelm WA 98543'
-    phone: 4259876543,
+    phone_number: 42 59 87 65 43 99,
     category: 'Japanese'
   }
 ]
